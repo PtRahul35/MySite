@@ -1,6 +1,6 @@
 Title: MySite
 
-Description: Welcome to MySite, a platform designed to explain Myself. Our site is crafted using HTML5 to ensure a seamless and modern browsing experience for our users.
+Description: Welcome to MySite, a platform designed to explain Myself. Our site is crafted using MERN Stack to ensure a seamless and modern browsing experience for our users.
 
 Key Features:
 
